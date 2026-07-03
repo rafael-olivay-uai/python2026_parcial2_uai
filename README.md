@@ -1,8 +1,10 @@
 # Examen Práctico de Python – Nivel Integrador
 
-###**Tiempo estimado:** 90 minutos
-###**Modalidad:** resolución individual
-###**Repositorio de entrega:** [https://github.com/cursos-uai/python2026_parcial2_uai](https://github.com/cursos-uai/python2026_parcial2_uai)
+- **Tiempo estimado:** 90 minutos
+
+- **Modalidad:** resolución individual
+
+- **Repositorio de entrega:** [https://github.com/cursos-uai/python2026_parcial2_uai](https://github.com/cursos-uai/python2026_parcial2_uai)
 
 ## Instrucciones generales
 * El examen consta exactamente de 2 ejercicios integradores diseñados para abarcar todos los temas del curso. 
