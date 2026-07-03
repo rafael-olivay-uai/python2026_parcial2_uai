@@ -1,6 +1,6 @@
 # Examen Práctico de Python – Nivel Integrador
 
-- **Tiempo estimado:** 90 minutos
+- **Tiempo estimado:** 60 minutos
 
 - **Modalidad:** resolución individual
 
